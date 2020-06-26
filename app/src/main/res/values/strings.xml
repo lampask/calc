@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Fornetti</string>
+    <string name="buttonA">A</string>
+    <string name="buttonB">B</string>
+    <string name="buttonC">C</string>
+    <string name="buttonD">D</string>
+    <string name="buttonE">E</string>
+    <string name="buttonF">F</string>
+    <string name="buttonG">G</string>
+    <string name="buttonH">H</string>
+    <string name="buttonI">I</string>
+    <string name="buttonJ">J</string>
+    <string name="buttonK">K</string>
+    <string name="buttonL">L</string>
+    <string name="buttonM">M</string>
+    <string name="buttonN">N</string>
+    <string name="buttonO">O</string>
+    <string name="buttonP">P</string>
+    <string name="del">X</string>
+    <string name="input_a">Platba</string>
+    <string name="input_b">Cena</string>
+    <string name="OK">OK</string>
+    <string name="card_info">N/A</string>
+</resources>
